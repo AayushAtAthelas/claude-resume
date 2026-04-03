@@ -63,7 +63,3 @@ Most commands support:
 2. **Title generator** batches conversations and calls `claude -p --model claude-haiku-4-5-20251001` to generate 5-10 word titles and topic tags
 3. **Embeddings** use hashed TF-IDF vectors (no external API) for instant semantic similarity search
 4. **Search** combines weighted text matching across titles, tags, messages, and file paths
-
-## License
-
-MIT
